@@ -1,5 +1,3 @@
-print ("Hello World :3")
-
 
 saludo = "Hello World :3"
 print (saludo)
