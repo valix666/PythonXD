@@ -1,2 +1,3 @@
 print ("Inserta un número entero cualquiera:")
-print (((3+2)/(2*5))**(2))
+numero_insertado= input()
+print ((numeroinsertado*(3+2)/(2*5))**(2))
