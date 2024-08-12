@@ -1,0 +1,5 @@
+print ("¿Cuál fue tu número de horas trabajadas?")
+horas_trabajadas= input ()
+print ("¿Cuánto es el coste de tus horas trabajadas?")
+coste_horas= input ()
+print (f"Tu salario el día de hoy sería de {(int(horas_trabajadas)*int(coste_horas))}")
